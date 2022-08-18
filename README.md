@@ -13,6 +13,8 @@ If you haven't already, fork and clone this lab into your local environment.
 Navigate into its directory in the terminal, then run `code .` to open the files
 in Visual Studio Code.
 
+Install all the dependencies with `npm install` to ensure you can test your work as you go with `npm test`.
+
 ## Identify That DOM Nodes Are Written As HTML
 
 In the previous lesson, we learned that, when we load a web page in a browser,
